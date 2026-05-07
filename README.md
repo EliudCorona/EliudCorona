@@ -37,34 +37,7 @@
 
 ---
 
-## 📌 Proyectos Destacados
 
-### 🛒 Sistema Punto de Venta e Inventario
-
-Sistema desarrollado para un taller y refaccionaria de motos llamado Moto Shop Center Apizaco.
-
-**Tecnologías utilizadas:**
-
-* Django
-* PostgreSQL
-* HTML, CSS y JavaScript
-
-### 📱 Aplicación Flutter CRUD
-
-Aplicación conectada a MongoDB Atlas con operaciones CRUD para celulares y electrodomésticos.
-
-**Tecnologías utilizadas:**
-
-* Flutter
-* Node.js
-* Express
-* MongoDB Atlas
-
-### 🐷 AgroFeed System (AFS)
-
-Sistema dispensador de alimento para cerdos para la Granja Hernández.
-
----
 
 ## 📚 Actualmente aprendiendo
 
