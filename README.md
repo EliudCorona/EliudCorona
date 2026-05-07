@@ -70,7 +70,6 @@ Sistema dispensador de alimento para cerdos para la Granja Hernández.
 
 * Desarrollo Full Stack
 * APIs REST
-* Inglés técnico
 * Arquitectura de software
 
 ---
