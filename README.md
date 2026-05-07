@@ -75,11 +75,6 @@ Sistema dispensador de alimento para cerdos para la Granja Hernández.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliudCorona\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliudCorona\&layout=compact\&theme=tokyonight)
 
 ---
 
